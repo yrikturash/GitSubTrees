@@ -1,2 +1,2 @@
-# GitSubTrees
-Test git subtrees
+# Git subtrees
+Subtrees are much simpler than submodules. As opposed to submodules, subtrees’ sources files are stored in the repo. It’s not just a link, the code is really there. There’s also fewer steps required and fewer changes to the workflow.
